@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JP Laser Studio
 
 Generador paramétrico de cajas para corte láser, con encastres *finger joint* y
@@ -144,3 +145,7 @@ el software a mano).
 Notas sobre divisores (Etapa 3): se unen a las paredes por mortaja-espiga y se
 traban entre sí por media madera; **apoyan sobre el fondo** (todavía no llevan
 ranura en el fondo). La espiga/ranura también requiere calibración física.
+=======
+# BSJP-Modelado-3D
+Aplicacion de modelado 3d para maquinas de corte laser
+>>>>>>> 89c9a0acceb6b5510a04b2b68ade87074bf90c6b
